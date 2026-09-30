@@ -1,0 +1,9 @@
+{
+  "id": "daily-changelog",
+  "name": "Daily Changelog",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Per-day note changelog of created/edited notes",
+  "author": "Thomas",
+  "isExperimental": false
+}
